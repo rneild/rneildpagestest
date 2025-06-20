@@ -1,4 +1,4 @@
-# Stripe API Examples - Documentation
+# Stripe API Examples
 
 Welcome to the documentation for the **Stripe API Examples** repository. This GitHub Pages site provides an overview and guide to the sample applications and code included in the repository.
 
