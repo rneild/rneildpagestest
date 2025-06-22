@@ -60,11 +60,12 @@ Here are a few featured automation repos:
 
 | Title | Description | Link |
 |-------|-------------|------|
-| 🔗 Salesforce → OurApp Auto-Creation | Auto-creates an OurApp record when a Salesforce opportunity is marked “Won”. | [View Repo](https://github.com/ourapp-integrations/salesforce-auto-create) |
-| 📨 Gmail → OurApp Trigger | Uses Zapier to create a task in OurApp when a specific email arrives. | [View Repo](https://github.com/ourapp-integrations/gmail-trigger) |
-| 📊 Google Sheets Sync | Python script to sync records between Google Sheets and OurApp API. | [View Repo](https://github.com/ourapp-integrations/sheets-sync) |
-| 🤖 Webhook Listener | Node.js webhook handler that pushes data into OurApp via REST API. | [View Repo](https://github.com/ourapp-integrations/webhook-listener) |
-| 🛠️ DIY Client Recipes | Client-submitted scripts, Make/Zapier links, and Postman collections. | [View Repo](https://github.com/ourapp-integrations/client-recipes) |
+| 🔗 Workday → OurApp Auto-Creation | Synchronizes new and updated employee records from Workday to OurApp | [View Docs](https://rneild.github.io/rneildrepotest01/)|
+| 🔗 Salesforce → OurApp Auto-Creation | Auto-creates an OurApp record when a Salesforce opportunity is marked “Won”. | ... |
+| 📨 Gmail → OurApp Trigger | Uses Zapier to create a task in OurApp when a specific email arrives. | ... |
+| 📊 Google Sheets Sync | Python script to sync records between Google Sheets and OurApp API. | ... |
+| 🤖 Webhook Listener | Node.js webhook handler that pushes data into OurApp via REST API. | ... |
+| 🛠️ DIY Client Recipes | Client-submitted scripts, Make/Zapier links, and Postman collections. | ... |
 
 Want to contribute your own? [Submit a new entry](https://github.com/ourapp-integrations/contribute) or open a pull request in the relevant repo!
 
