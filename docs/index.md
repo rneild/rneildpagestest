@@ -16,6 +16,9 @@ This is a curated collection of **real-world automation examples** using the Our
 
 Whether you're using Zapier, Make, direct API calls, or custom scripts, you're in the right place.
 
+> [!TIP]
+> Try our new Workday → OurApp HR Sync  that synchronizes new and updated employee records from Workday to OurApp [View Docs](https://rneild.github.io/rneildrepotest01/)
+
 ---
 
 ## 🎯 Goals
@@ -60,7 +63,7 @@ Here are a few featured automation repos:
 
 | Title | Description | Link |
 |-------|-------------|------|
-| 🔗 Workday → OurApp Auto-Creation | Synchronizes new and updated employee records from Workday to OurApp | [View Docs](https://rneild.github.io/rneildrepotest01/)|
+| 🔗 Workday → OurApp HR Sync | Synchronizes new and updated employee records from Workday to OurApp | [View Docs](https://rneild.github.io/rneildrepotest01/)|
 | 🔗 Salesforce → OurApp Auto-Creation | Auto-creates an OurApp record when a Salesforce opportunity is marked “Won”. | ... |
 | 📨 Gmail → OurApp Trigger | Uses Zapier to create a task in OurApp when a specific email arrives. | ... |
 | 📊 Google Sheets Sync | Python script to sync records between Google Sheets and OurApp API. | ... |
